@@ -42,7 +42,7 @@ Predicted Label: Negative
 
 ```
 .
-├── light-weight-fine-tuning.ipynb       # Main training script
+├── LightweightFineTuning.ipynb       # Main training script
 ├── /tmp/gpt2-lora-imdb/            # Saved LoRA adapter (inference ready)
 └── README.md
 ```
